@@ -1,0 +1,22 @@
+[
+    {
+      "input": "¿Qué idea sugirió Melanie durante la conversación inicial?",
+      "output": "Melanie sugirió crear un club donde pudieran enseñar y aprender nuevas habilidades."
+    },
+    {
+      "input": "¿Qué hizo Joel para contribuir al proyecto?",
+      "output": "Joel propuso crear una aplicación para conectar a los vecinos y organizar actividades."
+    },
+    {
+      "input": "¿Cuál fue la primera actividad que realizó el grupo para mejorar el barrio?",
+      "output": "La primera actividad fue una jornada de limpieza del parque."
+    },
+    {
+      "input": "¿Qué lograron en la jornada de limpieza del parque?",
+      "output": "Lograron recoger residuos, podar arbustos y pintar los bancos dañados, dejando el parque renovado."
+    },
+    {
+      "input": "¿Qué hicieron después de la jornada de limpieza?",
+      "output": "Organizaron una reunión comunitaria para presentar sus iniciativas a los vecinos."
+    }
+  ]
